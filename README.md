@@ -1,3 +1,5 @@
+Flags : gcc -Werror -Wall -Wstrict-prototypes -g3 -lm -std=c99 main.c -o pokedex
+
 Description :
 C Langage study project in 3rd year of bachelor in CyberSecurity at ESGI - Paris
 
@@ -20,4 +22,3 @@ SIGINT (ctrl + c)
 1- quit without saving
 2- quit and save -> to a csv
 3- continue (return to menu options)
-
